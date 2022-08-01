@@ -1,0 +1,7 @@
+name: TwoSeater
+version: '${project.version}'
+main: com.seailz.seathorse.TwoSeatHorse
+api-version: 1.16
+authors: [ Seailz ]
+description: Allows two people to sit on a horse
+website: www.seailz.com
